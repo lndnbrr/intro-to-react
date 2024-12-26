@@ -32,6 +32,9 @@ export default function NavBar() {
             <Link className="nav-link" href="/forms">
               Forms
             </Link>
+            <Link className="nav-link" href="/contacts">
+              Contacts
+            </Link>
           </Nav>
         </Navbar.Collapse>
       </Container>

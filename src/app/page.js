@@ -23,6 +23,9 @@ function Home() {
         <li>
           <Link href="/forms">Forms</Link>
         </li>
+        <li>
+          <Link href="/contacts">Contacts</Link>
+        </li>
       </ul>
     </>
   );
